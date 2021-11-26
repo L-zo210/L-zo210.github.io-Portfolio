@@ -253,10 +253,16 @@ details img {
     grid-template-columns: 1fr 1fr;
 }
 
+#contact {
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+}
+
 #contact img {
-    width: 100%;
-    height: auto;
-    margin: 0 auto;
+    width: auto;
+    height: 80vh;
+    
 }
 
 .con-menu {
